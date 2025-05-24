@@ -92,7 +92,7 @@ public interface OpenAiApi {
      * 文本修复
      *
      * @param edit 编辑参数
-     * @return Single EditResponse
+     * @return Single EditResponse add test
      */
     @Deprecated
     @POST("v1/edits")
