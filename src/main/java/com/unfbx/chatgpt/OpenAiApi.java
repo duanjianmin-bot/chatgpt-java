@@ -99,7 +99,7 @@ public interface OpenAiApi {
     Single<EditResponse> edits(@Body Edit edit);
 
     /**
-     * Creates an image given a prompt.
+     * Creates an image given a prompt. tt
      * 根据描述生成图片
      *
      * @param image 图片对象
